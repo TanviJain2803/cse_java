@@ -1,5 +1,4 @@
-# cse_java
-animal simulation
+# animal simulation
 Several classes in the starter code implement a graphical simulation of a 2D world with many animals moving around in it. You will write a set of classes that define the behavior of these animals. For each class, you are defining the unique behaviors for each animal.
 
 The Critter World is divided into cells with integer coordinates. The world is 60 cells wide and 50 cells tall by default. The upper-left cell has x-coordinates and y-coordinates (0, 0). The x-coordinate increases to the right. The y-coordinate increases downwards.
